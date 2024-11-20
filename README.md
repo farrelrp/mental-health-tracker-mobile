@@ -3,6 +3,8 @@
 Build Status Badge
 [![Build status](https://build.appcenter.ms/v0.1/apps/f34388bb-5ce8-4ec1-8c3d-ceb07f0d2dc2/branches/main/badge)](https://appcenter.ms)
 
+Public Release
+https://install.appcenter.ms/orgs/farrel-reksa/apps/reksa-records/distribution_groups/public/releases/1
 ## Getting Started
 
 This project is a starting point for a Flutter application.
